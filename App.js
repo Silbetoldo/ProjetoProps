@@ -34,6 +34,6 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 24, // Define o tamanho da fonte do texto
-    marginBottom: 10, // Adiciona uma margem abaixo do texto
+    marginBottom: 10, // Adiciona uma margem abaixo do textoa
   },
 });
